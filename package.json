@@ -1,0 +1,22 @@
+{
+  "name": "geneprediction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GenePrediction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdaigle/GenePrediction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdaigle/GenePrediction/issues"
+  },
+  "homepage": "https://github.com/mdaigle/GenePrediction#readme",
+  "dependencies": {
+    "mathjs": "^3.6.0"
+  }
+}
